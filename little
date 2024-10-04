@@ -176,7 +176,7 @@ end
       Main.Name = "Main"
       Main.Parent = dogent
       Main.AnchorPoint = Vector2.new(0.5, 0.5)
-      Main.BackgroundColor3 = Backgroun
+      Main.BackgroundColor3 = Background
       Main.BorderColor3 = MainColor
       Main.Position = UDim2.new(0.5, 0, 0.5, 0)
       Main.Size = UDim2.new(0, 572, 0, 353)
